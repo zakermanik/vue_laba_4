@@ -1,19 +1,5 @@
-# vue_laba_4
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Лабораторная работа № 4
+# Валидация.
+# Справка по vuelidate https://vuelidate-next.netlify.app/
+# Задание 
+Используя VUE CLI разработать приложение «Анкета», содержащее не менее 15 вопросов. Минимум 10 вопросов должны содержать валидаторы введенных значений. Использовать не менее 15 встроенных (built-in) валидаторов. Каждое валидируемое поле должно выделяться одним цветом в случае некорректных данных и другим в случае корректных. В случае не корректных введенных данных  рядом с каждым полем должны выводиться сообщения с подсказкой для пользователя.
